@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using ThucHanhWebMVC.Models;
+using ThucHanhWebMVC.ViewModels;
 using X.PagedList;
 
 namespace ThucHanhWebMVC.Controllers
@@ -51,7 +52,7 @@ namespace ThucHanhWebMVC.Controllers
             return View(lst);
         }
 
-
+        //cach 1 su dung view bag 
         public IActionResult ChiTietSanPham(string maSp)
         {
             var sanPham = db.TDanhMucSps.SingleOrDefault(x => x.MaSp == maSp);
@@ -62,7 +63,23 @@ namespace ThucHanhWebMVC.Controllers
 
 
 
+        public IActionResult ProductDetail(string maSp)
+        {
 
+
+            var sanPham = db.TDanhMucSps.SingleOrDefault(x => x.MaSp == maSp);
+            var anhSanPham = db.TAnhSps.Where(x => x.MaSp == maSp).ToList();
+
+            var homeProductDetailViewModel = new HomeProductDetailViewModel
+            {
+                danhMucSp = sanPham,
+                anhSps = anhSanPham
+            }; 
+
+
+            return View(homeProductDetailViewModel);
+
+        }
 
 
 
