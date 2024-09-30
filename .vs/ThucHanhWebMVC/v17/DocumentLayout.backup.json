@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{321D5782-DD00-48BE-BA25-E466CCE9E031}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|e:\\zalo\\ltweb\\hoc\\thuchanhwebmvc\\thuchanhwebmvc\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{321D5782-DD00-48BE-BA25-E466CCE9E031}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{321D5782-DD00-48BE-BA25-E466CCE9E031}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|e:\\zalo\\ltweb\\hoc\\thuchanhwebmvc\\thuchanhwebmvc\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{321D5782-DD00-48BE-BA25-E466CCE9E031}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{321D5782-DD00-48BE-BA25-E466CCE9E031}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|e:\\zalo\\ltweb\\hoc\\thuchanhwebmvc\\thuchanhwebmvc\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{321D5782-DD00-48BE-BA25-E466CCE9E031}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\areas\\admin\\views\\shared\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{321D5782-DD00-48BE-BA25-E466CCE9E031}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|e:\\zalo\\ltweb\\hoc\\thuchanhwebmvc\\thuchanhwebmvc\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{321D5782-DD00-48BE-BA25-E466CCE9E031}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{321D5782-DD00-48BE-BA25-E466CCE9E031}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|e:\\zalo\\ltweb\\hoc\\thuchanhwebmvc\\thuchanhwebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{321D5782-DD00-48BE-BA25-E466CCE9E031}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{321D5782-DD00-48BE-BA25-E466CCE9E031}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|e:\\zalo\\ltweb\\hoc\\thuchanhwebmvc\\thuchanhwebmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{321D5782-DD00-48BE-BA25-E466CCE9E031}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{321D5782-DD00-48BE-BA25-E466CCE9E031}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|e:\\zalo\\ltweb\\hoc\\thuchanhwebmvc\\thuchanhwebmvc\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -50,10 +58,6 @@
       "RelativeMoniker": "D:0:0:{321D5782-DD00-48BE-BA25-E466CCE9E031}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\views\\home\\sanphamtheoloai.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{321D5782-DD00-48BE-BA25-E466CCE9E031}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|e:\\zalo\\ltweb\\hoc\\thuchanhwebmvc\\thuchanhwebmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{321D5782-DD00-48BE-BA25-E466CCE9E031}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{321D5782-DD00-48BE-BA25-E466CCE9E031}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|e:\\zalo\\ltweb\\hoc\\thuchanhwebmvc\\thuchanhwebmvc\\views\\home\\chitietsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{321D5782-DD00-48BE-BA25-E466CCE9E031}|ThucHanhWebMVC\\ThucHanhWebMVC.csproj|solutionrelative:thuchanhwebmvc\\views\\home\\chitietsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -84,57 +88,29 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Views\\Home\\Index.cshtml",
               "ToolTip": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "ThucHanhWebMVC\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-24T19:27:03.298Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Controllers\\HomeController.cs",
               "ToolTip": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Controllers\\HomeController.cs",
               "RelativeToolTip": "ThucHanhWebMVC\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAEQAAAAAAAAAAAAswFAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-24T19:18:28.015Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "RelativeDocumentMoniker": "ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "ToolTip": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "RelativeToolTip": "ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T21:37:26.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeAdminController.cs",
-              "DocumentMoniker": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "RelativeDocumentMoniker": "ThucHanhWebMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "ToolTip": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "RelativeToolTip": "ThucHanhWebMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T21:33:11.51Z",
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -144,14 +120,51 @@
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
               "ToolTip": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
               "RelativeToolTip": "ThucHanhWebMVC\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
-              "ViewState": "AgIAAMUAAAAAAAAAAAAawMwAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAMYAAAAAAAAAAAAQwM8AAACTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-30T21:26:28.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "DanhMucSanPham.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeDocumentMoniker": "ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeToolTip": "ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAGkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:50:43.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "ThucHanhWebMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "ThucHanhWebMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T21:33:11.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ToolTip": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeToolTip": "ThucHanhWebMVC\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-30T21:37:26.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "blank-page.html",
               "DocumentMoniker": "E:\\visualstudio\\Template\\PurpleAdmin-Free-Admin-Template-master\\pages\\samples\\blank-page.html",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\visualstudio\\Template\\PurpleAdmin-Free-Admin-Template-master\\pages\\samples\\blank-page.html",
@@ -159,12 +172,11 @@
               "RelativeToolTip": "..\\..\\..\\..\\visualstudio\\Template\\PurpleAdmin-Free-Admin-Template-master\\pages\\samples\\blank-page.html",
               "ViewState": "AgIAABoBAAAAAAAAAAAQwCwBAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-30T21:28:51.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T21:28:51.657Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\ScaffoldingReadMe.txt",
@@ -172,12 +184,11 @@
               "RelativeToolTip": "ThucHanhWebMVC\\ScaffoldingReadMe.txt",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-09-30T21:25:35.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T21:25:35.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "LoaiSpRepository.cs",
               "DocumentMoniker": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Repository\\LoaiSpRepository.cs",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Repository\\LoaiSpRepository.cs",
@@ -185,12 +196,11 @@
               "RelativeToolTip": "ThucHanhWebMVC\\Repository\\LoaiSpRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T21:19:04.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T21:19:04.11Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "ILoaiSpRepository.cs",
               "DocumentMoniker": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Repository\\ILoaiSpRepository.cs",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Repository\\ILoaiSpRepository.cs",
@@ -198,12 +208,11 @@
               "RelativeToolTip": "ThucHanhWebMVC\\Repository\\ILoaiSpRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T21:19:01.702Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T21:19:01.702Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "PartialSanPham.cshtml",
               "DocumentMoniker": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Views\\Shared\\PartialSanPham.cshtml",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Views\\Shared\\PartialSanPham.cshtml",
@@ -211,12 +220,11 @@
               "RelativeToolTip": "ThucHanhWebMVC\\Views\\Shared\\PartialSanPham.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T19:50:54.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T19:50:54.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "LoaiSpMenuViewComponent.cs",
               "DocumentMoniker": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\ViewComponents\\LoaiSpMenuViewComponent.cs",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\ViewComponents\\LoaiSpMenuViewComponent.cs",
@@ -224,12 +232,11 @@
               "RelativeToolTip": "ThucHanhWebMVC\\ViewComponents\\LoaiSpMenuViewComponent.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:10:24.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T12:10:24.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Default.cshtml",
               "DocumentMoniker": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
@@ -237,12 +244,11 @@
               "RelativeToolTip": "ThucHanhWebMVC\\Views\\Shared\\Components\\LoaiSpMenu\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T12:23:12.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T12:23:12.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ChiTietSanPham.cshtml",
               "DocumentMoniker": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Views\\Home\\ChiTietSanPham.cshtml",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Views\\Home\\ChiTietSanPham.cshtml",
@@ -250,12 +256,11 @@
               "RelativeToolTip": "ThucHanhWebMVC\\Views\\Home\\ChiTietSanPham.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAGoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T18:51:24.378Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T18:51:24.378Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ProductDetail.cshtml",
               "DocumentMoniker": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Views\\Home\\ProductDetail.cshtml",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Views\\Home\\ProductDetail.cshtml",
@@ -263,12 +268,11 @@
               "RelativeToolTip": "ThucHanhWebMVC\\Views\\Home\\ProductDetail.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T20:20:11.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T20:20:11.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "SanPhamTheoLoai.cshtml",
               "DocumentMoniker": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Views\\Home\\SanPhamTheoLoai.cshtml",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Views\\Home\\SanPhamTheoLoai.cshtml",
@@ -276,12 +280,11 @@
               "RelativeToolTip": "ThucHanhWebMVC\\Views\\Home\\SanPhamTheoLoai.cshtml",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-30T17:05:39.504Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T17:05:39.504Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Program.cs",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Program.cs",
@@ -289,12 +292,11 @@
               "RelativeToolTip": "ThucHanhWebMVC\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:28:34.886Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-30T12:28:34.886Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "_LayoutOrgani.cshtml",
               "DocumentMoniker": "E:\\zalo\\ltweb\\HOc\\ThucHanhWebMVC\\ThucHanhWebMVC\\Views\\Shared\\_LayoutOrgani.cshtml",
               "RelativeDocumentMoniker": "ThucHanhWebMVC\\Views\\Shared\\_LayoutOrgani.cshtml",
@@ -306,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "index.html",
               "DocumentMoniker": "E:\\visualstudio\\Template\\ogani-master\\index.html",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\visualstudio\\Template\\ogani-master\\index.html",
