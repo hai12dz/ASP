@@ -21,7 +21,7 @@ namespace ThucHanhWebMVC.Controllers
         public IActionResult Index(int? page)
         {
             //lay danh sach san pham theo list  co phan trang
-            
+
             int pageSize = 8;
             int pageNumber = page == null || page < 0 ? 1 : page.Value;
             var lstsanpham = db.TDanhMucSps.AsNoTracking().OrderBy(x => x.TenSp);
@@ -39,12 +39,10 @@ namespace ThucHanhWebMVC.Controllers
         }
 
 
-        public IActionResult SanPhamTheoLoai(String maloai,int? page)
+        public IActionResult SanPhamTheoLoai(String maloai, int? page)
         {
             //lay danh sach loai san pham dua vao maloai truyen tu url vao` hoac tu ben Default.cshtml
             //List<TDanhMucSp> lstsanpham = db.TDanhMucSps.Where(x=>x.MaLoai==maloai).OrderBy(x=>x.TenSp).ToList();
-
-
             int pageSize = 8;
             int pageNumber = page == null || page < 0 ? 1 : page.Value;
             var lstsanpham = db.TDanhMucSps.AsNoTracking().Where(x => x.MaLoai == maloai).OrderBy(x => x.TenSp);
@@ -52,6 +50,19 @@ namespace ThucHanhWebMVC.Controllers
             ViewBag.maloai = maloai;
             return View(lst);
         }
+
+
+        public IActionResult ChiTietSanPham(string maSp)
+        {
+            var sanPham = db.TDanhMucSps.SingleOrDefault(x => x.MaSp == maSp);
+            var anhSanPham = db.TAnhSps.Where(x => x.MaSp == maSp).ToList();
+            ViewBag.anhSanPham = anhSanPham;
+            return View(sanPham);
+        }
+
+
+
+
 
 
 
