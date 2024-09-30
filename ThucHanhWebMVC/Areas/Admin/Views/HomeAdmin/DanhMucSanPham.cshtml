@@ -1,6 +1,5 @@
 ﻿@*@model IEnumerable<ThucHanhWebMVC.Models.TDanhMucSp>*@
 
-
 @*list tu controller index co phan trang*@
 @using ThucHanhWebMVC.Models
 @using X.PagedList.Mvc.Core;
@@ -11,11 +10,11 @@
     ViewData["Title"] = "DanhMucSanPham";
     Layout = "~/Areas/Admin/Views/Shared/_LayoutAdmin.cshtml";
 }
-
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
 <h3>Danh muc cac san pham</h3>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="ThemSanPhamMoi">Create New</a>
 </p>
 <table class="table">
     <thead>
