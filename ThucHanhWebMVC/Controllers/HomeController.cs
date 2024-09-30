@@ -62,11 +62,9 @@ namespace ThucHanhWebMVC.Controllers
         }
 
 
-
+        //cach 2 su dung viewmodel
         public IActionResult ProductDetail(string maSp)
         {
-
-
             var sanPham = db.TDanhMucSps.SingleOrDefault(x => x.MaSp == maSp);
             var anhSanPham = db.TAnhSps.Where(x => x.MaSp == maSp).ToList();
 
@@ -76,10 +74,14 @@ namespace ThucHanhWebMVC.Controllers
                 anhSps = anhSanPham
             }; 
 
-
             return View(homeProductDetailViewModel);
 
         }
+
+
+
+
+
 
 
 
