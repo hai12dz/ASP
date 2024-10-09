@@ -18,6 +18,7 @@ namespace ThucHanhWebMVC.Repository
 
         public TLoaiSp Delete(string maloaiSp)
         {
+
             throw new NotImplementedException();
         }
 

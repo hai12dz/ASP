@@ -47,6 +47,8 @@ namespace ThucHanhWebMVC.Controllers
             int pageSize = 8;
             int pageNumber = page == null || page < 0 ? 1 : page.Value;
             var lstsanpham = db.TDanhMucSps.AsNoTracking().Where(x => x.MaLoai == maloai).OrderBy(x => x.TenSp);
+           // var lssanpham = db.TDanhMucSps.AsNoTracking().OrderBy(x => x.TenSp).Where(x => x.MaLoai == maloai);
+
             PagedList<TDanhMucSp> lst = new PagedList<TDanhMucSp>(lstsanpham, pageNumber, pageSize);
             ViewBag.maloai = maloai;
             return View(lst);
