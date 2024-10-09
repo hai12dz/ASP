@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 using ThucHanhWebMVC.Models;
+using ThucHanhWebMVC.Models.Authentication;
 using ThucHanhWebMVC.ViewModels;
 using X.PagedList;
 
@@ -18,7 +19,9 @@ namespace ThucHanhWebMVC.Controllers
             _logger = logger;
         }
 
+
         //method Index trong controller home se goi den view tuong ung
+      [Authentication]
         public IActionResult Index(int? page)
         {
             //lay danh sach san pham theo list  co phan trang

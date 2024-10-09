@@ -11,7 +11,7 @@ var autoprefixer = require('gulp-autoprefixer');
 
 
 gulp.task('sass', function () {
-    return gulp.src('./assets/scss/**/*.scss')
+    return gulp.src('./LayoutAdmin/assets/scss/**/*.scss')
         .pipe(sourcemaps.init())
         .pipe(plumber({
             errorHandler: function (err) {
@@ -28,7 +28,7 @@ gulp.task('sass', function () {
             cascade: false
         }))
         .pipe(sourcemaps.write('./'))
-        .pipe(gulp.dest('./assets/css'))
+        .pipe(gulp.dest('./LayoutAdmin/assets/css'))
         .pipe(browserSync.stream());
 });
 
@@ -42,15 +42,15 @@ gulp.task('serve', gulp.series('sass', function () {
         notify: false
     });
 
-    gulp.watch('./assets/scss/**/*.scss', gulp.series('sass'));
-    gulp.watch(['./assets/js/**/*.js', './**/*.html', './assets/css/**/*.css']).on('change', browserSync.reload);
+    gulp.watch('./LayoutAdmin/assets/scss/**/*.scss', gulp.series('sass'));
+    gulp.watch(['./LayoutAdmin/assets/js/**/*.js', './**/*.html', './LayoutAdmin/assets/css/**/*.css']).on('change', browserSync.reload);
 
 }));
 
 
 
 gulp.task('sass:watch', function () {
-    gulp.watch('./assets/scss/**/*.scss');
+    gulp.watch('./LayoutAdmin/assets/scss/**/*.scss');
 });
 
 

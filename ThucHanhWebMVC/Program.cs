@@ -10,8 +10,18 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 var connectionString = builder.Configuration.GetConnectionString("MasterContext");
 builder.Services.AddDbContext<MasterContext>(x => x.UseSqlServer(connectionString));
-builder.Services.AddScoped<ILoaiSpRepository,LoaiSpRepository>();   
+builder.Services.AddScoped<ILoaiSpRepository, LoaiSpRepository>();
 //toan bo 4 cau tren
+
+//add session video 13
+builder.Services.AddSession();
+
+
+
+
+
+
+
 
 var app = builder.Build();
 
@@ -30,8 +40,16 @@ app.UseRouting();
 
 app.UseAuthorization();
 
+//session cho video 13
+app.UseSession();
+
+
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    //dang nhap truoc
+    pattern: "{controller=Access}/{action=Login}/{id?}");
+
+
+//pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

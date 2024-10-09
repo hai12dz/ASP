@@ -7,7 +7,7 @@ const del = require('del');
 
 gulp.task('clean:vendors', function () {
     return del([
-      './assets/vendors/**/*'
+      './LayoutAdmin/assets/vendors/**/*'
     ]);
 });
 
@@ -20,20 +20,20 @@ gulp.task('buildBaseVendorScripts', function() {
         './node_modules/perfect-scrollbar/dist/perfect-scrollbar.min.js'
     ])
       .pipe(concat('vendor.bundle.base.js'))
-      .pipe(gulp.dest('./assets/vendors/js'));
+      .pipe(gulp.dest('./LayoutAdmin/assets/vendors/js'));
 });
 
 /*Building vendor styles needed for basic template rendering*/
 gulp.task('buildBaseVendorStyles', function() {
     return gulp.src(['./node_modules/perfect-scrollbar/css/perfect-scrollbar.css'])
       .pipe(concat('vendor.bundle.base.css'))
-      .pipe(gulp.dest('./assets/vendors/css'));
+      .pipe(gulp.dest('./LayoutAdmin/assets/vendors/css'));
 });
 
 /*Scripts for addons*/
 gulp.task('buildOptionalVendorScripts', function() {
     var aScript1 = gulp.src(['node_modules/chart.js/dist/Chart.min.js'])
-        .pipe(gulp.dest('./assets/vendors/chart.js'));
+        .pipe(gulp.dest('./LayoutAdmin/assets/vendors/chart.js'));
     return merge(aScript1);
 });
 
@@ -41,18 +41,18 @@ gulp.task('buildOptionalVendorScripts', function() {
 /*Styles for addons*/
 gulp.task('buildOptionalVendorStyles', function() {
     var aStyle1 = gulp.src(['./node_modules/@mdi/font/css/materialdesignicons.min.css'])
-        .pipe(gulp.dest('./assets/vendors/mdi/css'));
+        .pipe(gulp.dest('./LayoutAdmin/assets/vendors/mdi/css'));
     var aStyle2 = gulp.src(['./node_modules/@mdi/font/fonts/*'])
-        .pipe(gulp.dest('./assets/vendors/mdi/fonts'));
+        .pipe(gulp.dest('./LayoutAdmin/assets/vendors/mdi/fonts'));
     return merge(aStyle1, aStyle2);
 });
 
 //Copy essential map files
 gulp.task('copyMapFiles', function() {
     var map1 = gulp.src('node_modules/bootstrap/dist/js/bootstrap.min.js.map')
-        .pipe(gulp.dest('./assets/vendors/js'));
+        .pipe(gulp.dest('./LayoutAdmin/assets/vendors/js'));
     var map2 = gulp.src('node_modules/@mdi/font/css/materialdesignicons.min.css.map')
-        .pipe(gulp.dest('./assets/vendors/mdi/css'));
+        .pipe(gulp.dest('./LayoutAdmin/assets/vendors/mdi/css'));
     return merge(map1, map2);
 });
 
