@@ -21,7 +21,7 @@ namespace ThucHanhWebMVC.Controllers
 
 
         //method Index trong controller home se goi den view tuong ung
-      [Authentication]
+     // [Authentication]
         public IActionResult Index(int? page)
         {
             //lay danh sach san pham theo list  co phan trang
@@ -42,6 +42,7 @@ namespace ThucHanhWebMVC.Controllers
             return View();
         }
 
+        // [Authentication]
 
         public IActionResult SanPhamTheoLoai(String maloai, int? page)
         {
